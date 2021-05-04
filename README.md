@@ -1,5 +1,5 @@
 # Compression-Engine
-Compression Engine is a program that uses Huffman Compression Algorithm to compress .txt files using a lossless compression library. 
+Compression Engine uses Huffman Compression Algorithm to compress .txt files using a lossless compression library. 
 
 This program is currently compressing a file that is named "foo.txt" which is a book downloaded from the website "Projet Gutenberg".  
 
